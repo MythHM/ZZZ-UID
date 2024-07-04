@@ -30,5 +30,5 @@ python main.py  #必须以管理员身份启动！！！
 
 # 注：这个程序是按照崩铁开服时逻辑做的。如果是创建角色后(输入ID)后才创建UID的话，那没办法。
 
+![d04881366b3091b494b18842173f3be2](https://github.com/MythHM/ZZZ-UID/assets/81886942/19597e20-47e6-4393-8d8a-439ff1118c16)
 
-![9f4bf927d76738f0e1ce602da6198784](https://github.com/MythHM/ZZZ-UID/assets/81886942/ca481889-4b05-4c19-b17e-398bbc8aef23)
